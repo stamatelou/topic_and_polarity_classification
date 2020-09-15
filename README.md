@@ -11,7 +11,7 @@ Topic and Polarity Classification of Dutch news related to the Corona virus outb
 We scraped the news from 18-04-2020 until 10-05-2020, the period of the coronavirus outbreak. </br>
 
 2) Topic Classification</br>
-For having better results, we used an ensemble model, which combines the results of 2 Machine Learning algorithms. </br>
+For having better results, we used an ensemble model, which combines the results of two Machine Learning algorithms. </br>
   a) Logistic Regression</br>
   b) [FastText](https://fasttext.cc/)</br>
 3) Polarity Clasification with [VADER algorithm](https://github.com/cjhutto/vaderSentiment)</br>
