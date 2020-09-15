@@ -20,7 +20,7 @@ For having better results, we used an ensemble model, which combines the results
 
 # How to start
 
-Clone the repository and run main.py</br>
+Clone the repository and run 'main.py'</br>
 
 # Brief explanation of the files</br>
 Input Data:
