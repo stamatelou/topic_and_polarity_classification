@@ -14,7 +14,7 @@ We scraped the news from 18-04-2020 until 10-05-2020, the period of the coronavi
 For having better results, we used an ensemble model, which combines the results of 2 Machine Learning algorithms. </br>
   a) Logistic Regression</br>
   b) FastText</br>
-3) Polarity Clasification with VADER algorith</br>
+3) Polarity Clasification with [VADER algorithm](https://github.com/cjhutto/vaderSentiment)</br>
 
 4) Dashboard, which displays the news with their labels</br>
 
