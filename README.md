@@ -1,4 +1,4 @@
-# topic_and_polarity_classification
+# Topic and Polarity Classification of news
 Topic and Polarity Classification of Dutch news related to the Corona virus outbreak. 
 
 <strong> Input Data: </strong> Google News from USA related to COVID-19 outbreak from the topics of Healthcare, Science, Economy, and Travel. Google News gives the possibility to filter the news based on the country, COVID-19, and topic.
