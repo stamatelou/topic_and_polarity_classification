@@ -17,3 +17,7 @@ For having better results, we used an ensemble model, which combines the results
 3) Polarity Clasification with VADER algorith</br>
 
 4) Dashboard, which displays the news with their labels</br>
+
+# How to start
+
+Clone the repository and run main.py
