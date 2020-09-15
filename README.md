@@ -21,3 +21,19 @@ For having better results, we used an ensemble model, which combines the results
 # How to start
 
 Clone the repository and run main.py
+
+Brief explanation of the files
+• Corona-ScrapedData: folder that contains the scraped data and the Python scripts used to scrape the data from Google News
+• preprocessing.py: reads and preprocesses the scraped data
+• main.py : the main function which reads the training data, trains the models for topic and polarity classification, and predicts the labels for unknown newsitems
+• simple_text_classification.py: implements TFIDF and Logistic Regression training and prediction
+• FastText.py: implements the FastText algorith for Topic Classification. 
+     Training: It uses the Google News with the topic categories (Healthcare, Science, Economy, and Travel) 
+     Prediction: Given a newsitem it predicts its label (Healthcare, Science, Economy, and Travel)
+• polarity_analysis.py: implements the polarity classification algorithm (VADER). It uses a rule-based technique 
+     Prediction: Given a newsitem it predicts its label (positive, negative, neutral)
+• topic_classification_predictions.csv: prediction results of topic classification
+• polarity_predictions.csv : prediction results of polarity classification
+
+
+
